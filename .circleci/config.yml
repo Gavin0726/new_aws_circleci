@@ -366,12 +366,8 @@ workflows:
   default:
     jobs:
      
-      - deploy-infrastructure:
-          
-          filters:
-            branches:
-              only: [master]
-      
+      - deploy-infrastructure
+   
       
           
      
