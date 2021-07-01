@@ -1,5 +1,5 @@
 1. Public Url to GitHub repository  (not private) [URL01]:
-https://github.com/Gavin0726/circleci-aws.git
+https://github.com/Gavin0726/new_aws_circleci.git
 
 2. Public URL for your S3 Bucket (aka, your green candidate front-end) [URL02]:
 http://udapeople-7494b34.s3-website-us-east-1.amazonaws.com/
